@@ -1,8 +1,8 @@
-# ChatterUI - A simple app for LLMs
+# LLM_React - A simple app for LLMs
 
-ChatterUI is a native mobile frontend for managing chat files and character cards inspired by SillyTavern.
+LLM_React is a native mobile frontend for managing chat files and character cards inspired by SillyTavern.
 It aims to provide a mobile friendly experience to inferface with Large Language models.
-ChatterUI supports multiple backends and can even run GGUF models locally on your device.
+LLM_React supports multiple backends and can even run GGUF models locally on your device.
 
 <div>
 <img src ="https://github.com/Vali-98/ChatterUI/blob/master/assets/screenshots/recents.png" width="150" > 
@@ -30,7 +30,7 @@ ChatterUI supports multiple backends and can even run GGUF models locally on you
 Clone the repo:
 
 ```
-git clone https://github.com/Vali-98/ChatterUI.git
+git clone https://github.com/cmiao7-illinois/LLM_React.git
 ```
 
 Install dependencies via npm and run via Expo:
